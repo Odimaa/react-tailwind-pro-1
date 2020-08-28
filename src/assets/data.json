@@ -1,0 +1,195 @@
+[
+  {
+    "id": 1,
+    "company": "Chevron",
+    "logo": "./images/chevron-4.svg",
+    "isNew": true,
+    "featured": true,
+    "position": "Administrative Manager",
+    "role": "Data Entry",
+    "level": "Administrative Support",
+    "postedAt": "1d ago",
+    "contract": "Full Time",
+    "location": "Ondo, Ogun",
+    "languages": [],
+    "tools": []
+  },
+  {
+    "id": 2,
+    "company": "KPMG",
+    "logo": "./images/kpmg-1.svg",
+    "isNew": true,
+    "featured": true,
+    "position": "Graduate Program",
+    "role": "Graduate",
+    "level": "",
+    "postedAt": "1d ago",
+    "contract": "Full Time",
+    "location": "Lagos Only",
+    "languages": [],
+    "tools": []
+  },
+  {
+    "id": 3,
+    "company": "Eko Hotels & Suites",
+    "logo": "./images/eko-3.svg",
+    "isNew": true,
+    "featured": false,
+    "position": "Technical Support Specialist",
+    "role": "Customer Support",
+    "level": "Junior",
+    "postedAt": "2d ago",
+    "contract": "Full Time",
+    "location": "Lagos Only",
+    "languages": [
+      "Microsoft Office"
+    ],
+    "tools": [
+      "Phone Support",
+      "DSL Troubleshooting"
+    ]
+  },
+  {
+    "id": 4,
+    "company": "Nike",
+    "logo": "./images/nike-3.svg",
+    "isNew": false,
+    "featured": false,
+    "position": "Junior Frontend Developer",
+    "role": "Frontend",
+    "level": "Junior",
+    "postedAt": "5d ago",
+    "contract": "Contract",
+    "location": "USA Only",
+    "languages": [
+      "CSS",
+      "JavaScript"
+    ],
+    "tools": []
+  },
+  {
+    "id": 5,
+    "company": "Price Waterhouse Cooper",
+    "logo": "./images/price-waterhouse.svg",
+    "isNew": false,
+    "featured": false,
+    "position": "Software Engineer",
+    "role": "FullStack",
+    "level": "Senior",
+    "postedAt": "1w ago",
+    "contract": "Full Time",
+    "location": "Worldwide",
+    "languages": [
+      "JavaScript"
+    ],
+    "tools": [
+      "Ruby",
+      "Sass"
+    ]
+  },
+  {
+    "id": 6,
+    "company": "Appium",
+    "logo": "./images/appium.svg",
+    "isNew": false,
+    "featured": false,
+    "position": "Junior Backend Developer",
+    "role": "Backend",
+    "level": "Junior",
+    "postedAt": "2w ago",
+    "contract": "Full Time",
+    "location": "Remote",
+    "languages": [
+      "Ruby"
+    ],
+    "tools": [
+      "RoR"
+    ]
+  },
+  {
+    "id": 7,
+    "company": "Nestle",
+    "logo": "./images/nestle-4.svg",
+    "isNew": false,
+    "featured": false,
+    "position": "Financial Analyst",
+    "role": "Financial Analysis",
+    "level": "Bookkeeping",
+    "postedAt": "2w ago",
+    "contract": "Full Time",
+    "location": "Lagos",
+    "languages": [],
+    "tools": []
+  },
+  {
+    "id": 8,
+    "company": "Shell",
+    "logo": "./images/shell.svg",
+    "isNew": false,
+    "featured": false,
+    "position": "Junior Frontend Developer",
+    "role": "Frontend",
+    "level": "Junior",
+    "postedAt": "2w ago",
+    "contract": "Full Time",
+    "location": "Port Harcourt",
+    "languages": [
+      "JavaScript"
+    ],
+    "tools": [
+      "Vue",
+      "React",
+      "Sass"
+    ]
+  },
+  {
+    "id": 9,
+    "company": "Tik Tok",
+    "logo": "./images/tiktok-icon-white-1.svg",
+    "isNew": false,
+    "featured": false,
+    "position": "Full Stack Engineer",
+    "role": "Fullstack",
+    "level": "Senior",
+    "postedAt": "3w ago",
+    "contract": "Full Time",
+    "location": "Worldwide",
+    "languages": [
+      "JavaScript",
+      "Python"
+    ],
+    "tools": [
+      "Django"
+    ]
+  },
+  {
+    "id": 10,
+    "company": "MTN",
+    "logo": "./images/mtn-group.svg",
+    "isNew": false,
+    "featured": false,
+    "position": "Graduate Trainee",
+    "role": "Graduate",
+    "level": "Junior",
+    "postedAt": "1mo ago",
+    "contract": "Part Time",
+    "location": "Worldwide",
+    "languages": [],
+    "tools": []
+  },
+  {
+    "id": 11,
+    "company": "Coca Cola",
+    "logo": "./images/coca-cola.svg",
+    "isNew": false,
+    "featured": false,
+    "position": "Professional Writer",
+    "role": "Proofreading",
+    "level": "Copywriting",
+    "postedAt": "1mo ago",
+    "contract": "Part Time",
+    "location": "Remote",
+    "languages": [],
+    "tools": []
+  }
+]
